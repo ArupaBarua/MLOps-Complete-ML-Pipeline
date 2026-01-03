@@ -1,0 +1,6 @@
+[core]
+    remote = datastore
+['remote "dvcstore"']
+    url = s3://arupa-dvc-s3-project
+['remote "datastore"']
+    url = s3://arupa-dvc-s3-project
